@@ -3,7 +3,7 @@ Ash is catching Pokemons in a world with a two-dimensional grid with infinite ho
 ## Getting Started
 This program runs on Eclipse IDE 2020-06, Java SE Runtime Environment 8. 
 ### Instaling
-(...)
+Clone the repository with `git clone https://github.com/SaraRo21/Pokemon.git`. 
 ## Run
 To run this program, you just need to run the RunCode.java file.
 ### Example
