@@ -1,7 +1,7 @@
 # Pokemon
 Ash is catching Pokemons in a two-dimensional grid world with infinite houses. In each house, there is one pokemon. Can he catch them all?
 ## Getting Started
-This program runs on Eclipse IDE 2020-06 and Java SE Runtime Environment 8. 
+This program runs on Eclipse IDE 2020-06, Java SE Runtime Environment 8. 
 ### Instaling
 (...)
 ## Run
